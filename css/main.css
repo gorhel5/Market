@@ -16,6 +16,10 @@
 		0 8px 10px -5px rgba(33,37,41,.1);
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+}
+
 * {
     box-sizing: border-box;
 
